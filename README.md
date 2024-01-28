@@ -10,6 +10,8 @@
 
 ---
 
+<div align="center">
+
 **1. 주제선정을 위한 브레인스토밍**
 
 ![스크린샷 2023-09-14 09-35-01](https://github.com/jmlee99/GBIF/assets/98507134/7bb54378-68c1-4a46-ae1b-d5e19a99d818)
@@ -118,3 +120,5 @@
 
 **5-3. 기대효과**
 ![스크린샷 2024-01-27 16-11-26](https://github.com/jmlee99/GBIF/assets/98507134/6711c273-cf32-4d57-b4f4-04c486cb7c86)
+
+</div>
