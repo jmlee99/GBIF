@@ -10,6 +10,19 @@
 
 ---
 
+
+> GBIF 데이터를 활용하여 대한민국 미래 기후 및 작물 예측 프로젝트
+> - 개발기간 : 2023.08.25 ~ 2023.09.09
+> - 핵심역할 : 팀장, 기후 데이터 검정 및 모델 구현 개발
+>> - Language : Python3
+>> - Skill : numpy, pandas, seaborn, scipy, tensorflow, keras, scikit-learn
+>> - Tool : Jupyter Notebook
+
+---
+
+
+<br />
+
 <div align="center">
 
 **1. 주제선정을 위한 브레인스토밍**
