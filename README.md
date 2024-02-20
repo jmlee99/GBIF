@@ -1,13 +1,16 @@
 # 1. 🍀 GBIF 데이터 활용 해커톤 - 국립중앙과학관장상(최우수상)
 
+<br/>
 
 ***대회 준비하면서 구현한 코드 첨부 (단, 대회 제출 코드는 해커톤 특성상 가져오지 못했습니다.)***
 
 ***최종 제출한 발표 자료***
 
+<br/>
 
 ---
 
+<br/>
 
 > GBIF 데이터를 활용하여 대한민국 미래 기후 및 작물 예측 프로젝트
 > - 개발기간 : 2023.08.25 ~ 2023.09.09
@@ -15,6 +18,8 @@
 >> - Language : Python3
 >> - Skill : numpy, pandas, seaborn, scipy, tensorflow, keras, scikit-learn
 >> - Tool : Jupyter Notebook
+
+<br/>
 
 ---
 
